@@ -1,7 +1,0 @@
-zenpy
-google-cloud-storage
-cryptography
-google-cloud-bigquery
-pandas
-pandas-gbq
-
